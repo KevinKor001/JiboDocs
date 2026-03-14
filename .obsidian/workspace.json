@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "Getting Started/Developing for Jibo/Introduction to the New Jibo SDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "Introduction to the New Jibo SDK"
             }
           }
         ],
@@ -251,16 +251,16 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "1895b61c1551dd83",
+  "active": "bca83b8556c51cdb",
   "lastOpenFiles": [
-    "README.md",
+    "Getting Started/Welcome to the Jibo Revival Project.md",
     "index.md.md",
+    "README.md",
     "Getting Started/Developing for Jibo/Introduction to the New Jibo SDK.md",
     "Getting Started/Developing for Jibo/About - Jibo SDK V2!.md",
     "Getting Started/Modifying the Firmware/Using the install script.md",
     "Getting Started/Developing for Jibo",
     "Getting Started/Modifying the Firmware/1. Get your environment ready!.md",
-    "Getting Started/Welcome to the Jibo Revival Project.md",
     "Dictionary/Robot Os.md",
     "Dictionary/ESML.md",
     "Jibo Workshop HRI 2024.md",
