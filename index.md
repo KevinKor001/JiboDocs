@@ -16,6 +16,7 @@ This is a vault base around the jibo revival project, everything we have discove
  
  Uncategorized:
 	[[Jibo Workshop HRI 2024]]
+	[[Useful Items]]
  
  
  Documentation:
