@@ -11,3 +11,7 @@ Error service, allows you to simulate errors in realtime. Shows names of third p
 # Useful Files
 ### /opt/jibo/Jibo/Skills/@be/be/resources/JiboSplash.png
 This file allows you to edit the splash screen. One thing to clarify is that it is only the splash screen for the Be skill meaning it will only edit the splash seen when you restart "@be/Be" or in the 'second boot stage' when Jibo spins and shows the splash
+### /usr/local/bin/
+Has a lot of random assets, cool thing to dig around and tinker with.
+### /opt/jibo/Jibo/Skills/@be/be/node_modules/jibo-anim-db-animations/audio/
+Lots of audio assets, the surrounding folders also contain other assets
