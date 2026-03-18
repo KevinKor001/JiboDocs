@@ -5,28 +5,18 @@ This is a vault base around the jibo revival project, everything we have discove
 
 ### Table Of Contents
  
-[[Hardware and Tegra Exploitation]]
+To check a mod guide , go to [[1. Get your environment ready!]]
 
-[[Network Profiling & Traffic Analysis]]
+To read about the project go to : [[Welcome to the Jibo Revival Project]]
+
+To learn about the os , check out [[Useful Items List]]
 
 
+
+>[!info]
+ Files under uncategorized or Documentation with the #AtDev tag are files i use to keep track of the steps to make or recreate something , eventually they will get compiled to a guide or proper documentation
 
 
  - - - 
- 
- Uncategorized:
-	[[Jibo Workshop HRI 2024]]
-	[[Useful Items]]
- 
- 
- Documentation:
-	 ESML:
-		 [[ESML-SDK.pdf]]
-		 [[Jibo-Animations.pdf]]
- Dictionary:
-	 [[ESML]]
-	 [[Robot Os]]
-
-
 
 More stuff will be coming soon :)

@@ -61,14 +61,11 @@ When Jibo reaches the "Checking for Updates" screen, it isn't "dead." Even while
 ### **Domain Discrepancy**
 
 - **jibo.com:** Officially shut down; no longer resolves to an active site.
-- **jibo.net:** Currently active with a "Coming Soon" page. I am monitoring this to see if any hardcoded traffic redirects here.
+- **jibo.net:** Tribute site made by Community member Jibo-detective or RoboticaLabs on youtube
 
 ---
 
-## Next Steps for Contributors
-
-1. **SSL Decryption:** We need to perform a Man-in-the-Middle (MITM) attack using a tool like `mitmproxy` to see the actual content of the HTTPS requests.
-2. **DNS Poisoning:** Set up a local DNS server (like Pi-hole or a custom BIND server) to redirect `8.8.8.8` calls to a local gateway.
-3. **Endpoint Mocking:** Create a Python or Flask server to return dummy `200 OK` responses to the AWS IPs to see if Jibo bypasses the update screen.
+Check out [[Networking & ports & Error codes]] by ZaneDev from discord
 
 ---
+

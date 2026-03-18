@@ -1,4 +1,4 @@
-Jibo was built a little weird, so it's easy to forget things. This document contains things that are nice to know for tinkering or developing for Jibo Revival.
+- - -
 # Useful Ports
 > [!INFORMATION]
 > You might not be able to access some ports if you haven't unblocked them on Jibo's firewall.
@@ -19,11 +19,3 @@ It seems in recent versions of Jibo errors relating to him not being able to con
 | Q4 | No | |
 | N1–N12 | No | |
 | OTA11, R1 | No | Triggers error-within-error: "NOT HANDLED BY ERROR SKILL" |
-
-# Useful Files
-### /opt/jibo/Jibo/Skills/@be/be/resources/JiboSplash.png
-This file allows you to edit the splash screen. This is the image that shows at the start of the Be skill (normally the Jibo logo, Jibo Revival logo, OpenJiboOS logo, or some variation). Note: This is only the splash screen for the Be skill. It will only edit the splash seen when you restart "@be/Be", or in the 'second boot stage' when Jibo spins and shows the splash a second time.
-### /usr/local/bin/
-Has a lot of random assets, potentially has assets useful for restoration.
-### /opt/jibo/Jibo/Skills/@be/be/node_modules/jibo-anim-db-animations/audio/
-Lots of audio assets, the surrounding folders also contain other assets.
