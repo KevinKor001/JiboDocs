@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jibo Tools & Mod Installer/08 - Troubleshooting.md",
+                "file": "Documentation/Useful Items List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - Troubleshooting"
+              "title": "Useful Items List"
             }
           }
         ],
@@ -214,6 +214,13 @@
   },
   "active": "0806f039bf8a940e",
   "lastOpenFiles": [
+    "Documentation/Voice/Local Voice Round-Trip on Jibo (AI Commmunication).md",
+    "Jibo Tools & Mod Installer/08 - Troubleshooting.md",
+    "Documentation/Voice",
+    "Jibo Tools & Mod Installer/07 - Working Directory + State Files.md",
+    "Jibo Tools & Mod Installer/01 - Installer (How It Works).md",
+    "Getting Started/Modifying the Firmware/Using the install script.md",
+    "Documentation/Useful Items List.md",
     "index.md",
     "obsidian/08 - Troubleshooting.md",
     "obsidian/07 - Working Directory + State Files.md",
@@ -228,33 +235,26 @@
     "Documentation/Menu Buttons/ButtonSetup.png",
     "Documentation/Menu Buttons/ButtonSetup.kra",
     "Documentation/Menu Buttons",
-    "Jibo Tools & Mod Installer/07 - Working Directory + State Files.md",
     "Jibo Tools & Mod Installer/06 - Updater (How It Works).md",
     "Jibo Tools & Mod Installer/05 - Windows Support.md",
     "Jibo Tools & Mod Installer/04 - GUI (How It Works).md",
     "Assets/JiboToolsScreen.png",
     "Assets/Screenshot_20260317_235807.png",
     "Jibo Tools & Mod Installer/03 - CLI Arguments.md",
-    "Jibo Tools & Mod Installer/01 - Installer (How It Works).md",
     "Getting Started/Modifying the Firmware/1. Get your environment ready!.md",
     "Jibo Tools & Mod Installer/00 - Index.md",
-    "Documentation/Useful Items List.md",
     "Jibo Tools & Mod Installer/02 - Mapping to guide.md",
     "Getting Started/Welcome to the Jibo Revival Project.md",
     "Documentation/AtDev - New Firewall script.md",
     "Documentation/Networking/Network Profiling & Traffic Analysis.md",
     "Documentation/Networking",
-    "Documentation/The be skill/Assets/The audio directory.md",
-    "Documentation/The be skill/Assets/The assets directory.md",
     "Documentation/The be skill/Assets",
-    "Documentation/The be skill/The Splash screen image!.md",
     "Documentation/The be skill",
     "Documentation/The be skill/Assets/Menu Buttons/ButtonSetup.png",
     "Assets/Jibo RCM.jpg",
     "About UART Connection",
     "Jibo Tools & Mod Installer",
     "Documentation/The be skill/Assets/Menu Buttons/ButtonSetup.kra",
-    "Documentation/The be skill/Assets/Menu Buttons",
     "Assets/JiboChatGPT.png"
   ]
 }

@@ -7,7 +7,10 @@ Jibo was built a little weird, so it's easy to forget things. This document cont
 ## About [[The audio directory]]
 
 ## About [[Networking & ports & Error codes]]
+
 ## About [[Network Profiling & Traffic Analysis]]
+
+## About [[Local Voice Round-Trip on Jibo (AI Commmunication)]]
 
 - - -
  Documented by ZaneDev @ Our Discord
