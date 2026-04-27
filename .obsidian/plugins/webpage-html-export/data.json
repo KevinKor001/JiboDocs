@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/home/kevin/Desktop/test2",
+    "exportPath": "",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -196,7 +196,7 @@
       "alwaysEnabled": false,
       "hideSettingsButton": true
     },
-    "relativeHeaderLinks": true,
+    "relativeHeaderLinks": false,
     "includeJS": true,
     "includeCSS": true,
     "inlineMedia": false,
@@ -214,18 +214,12 @@
     "siteName": "JiboDocs",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
-    "includePluginCss": [
-      "code-styler",
-      "code-styler-styles"
-    ],
-    "includeStyleCssIds": [
-      "code-styler",
-      "code-styler-styles"
-    ],
+    "includePluginCss": [],
+    "includeStyleCssIds": [],
     "autoDisposeWebpages": true
   },
   "logLevel": "warning",
-  "titleProperty": "JRD",
+  "titleProperty": "title",
   "rssDateProperty": "date",
   "onlyExportModified": true,
   "deleteOldFiles": true,
